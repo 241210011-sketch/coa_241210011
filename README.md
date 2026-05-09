@@ -180,9 +180,7 @@ Overall, the repository helps build a strong foundation in Computer Organization
 
 ---
 
-# Usage
-
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/JyothiVenkataSai/COA_241210055.git
+git clone https://github.com/241210011-sketch/coa_241210011.git
